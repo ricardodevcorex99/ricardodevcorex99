@@ -11,8 +11,8 @@ Soy desarrollador de software y fundador de **[NeuroGrow AI Labs](https://github
 
 ### 🚀 Proyectos principales
 
-- **[NeuroGrow AI Labs](https://github.com/neurogrowailabs/neurogrowailabs):** Plataforma web oficial y motor de diagnóstico técnico inteligente para clientes. (Laravel, PHP 8.4, Docker, Render).
-- **[MiVeci](https://miveci-app.onrender.com):** PWA de comercio hiperlocal que conecta tiendas de barrio con vecinos mediante geolocalización e IA (Gemini).
+- **[NeuroGrow AI Labs](https://github.com/neurogrowailabs/neurogrowailabs):** Plataforma web oficial.
+- **[MiVeci](https://miveci-app.onrender.com):** Aplicación de comercio hiperlocal con geolocalización e IA.
 
 ---
 
